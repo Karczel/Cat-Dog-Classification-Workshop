@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 best_cat_dog_classifier_CNN filter=lfs diff=lfs merge=lfs -text
+best_lung_cancer_detection_CNN filter=lfs diff=lfs merge=lfs -text
+best_lung_cancer_detection_CNN/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+Geeks4Geeks_Tutorial/best_lung_cancer_detection_CNN/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
